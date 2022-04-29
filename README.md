@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/GhostOfTarkov/MAGD150/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+# **These are my five favorite sketches that I had made throughout the semester**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 1. **My [first project](https://github.com/GhostOfTarkov/MAGD150/blob/gh-pages/s22magd150lab01_Walter_2022_04_28_23_03_53/sketch.js) that I ever created in P5.JS**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I chose this project because I wanted to show how what I did before I had learned some ways to make more unique sketches over time...
 
-```markdown
-Syntax highlighted code block
+## 2. **My [third project](https://github.com/GhostOfTarkov/MAGD150/blob/gh-pages/s22magd150lab03_Walter_2022_04_28_23_05_30/sketch.js) that I created in P5.JS**
 
-# Header 1
-## Header 2
-### Header 3
+I chose this project because I had learned a lot about the points on the canvas and how to navigate it using numbers.
 
-- Bulleted
-- List
+## 3. **My [sixth project](https://github.com/GhostOfTarkov/MAGD150/blob/gh-pages/s22magd150lab06_Walter_2022_04_28_23_05_32/sketch.js) that I created in P5.JS**
 
-1. Numbered
-2. List
+I chose this project because I tried to make something that was way past my ability at that time although I did learn a lot about how to make functions.
 
-**Bold** and _Italic_ and `Code` text
+## 4. **My [seventh project](https://github.com/GhostOfTarkov/MAGD150/blob/gh-pages/s22magd150lab07_Walter_2022_04_28_23_00_33/sketch.js) that I created in P5.JS**
 
-[Link](url) and ![Image](src)
-```
+I chose this project because I had learned a lot about how to use the random method and also how to use classes and call functions in classes.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 5. **My [tenth project](https://github.com/GhostOfTarkov/MAGD150/blob/gh-pages/s22magdlab10_Walter/sketch.js) that I created in P5.JS**
 
-### Jekyll Themes
+I chose this project because it was the latest projects we had and also I had learned how to use camera and lights with 3D objects.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GhostOfTarkov/MAGD150/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
